@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /news_club/
+Allow: /media_club/
+Disallow: /frame/
